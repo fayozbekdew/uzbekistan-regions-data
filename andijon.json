@@ -1,0 +1,172 @@
+{
+    "regions": [
+        {
+            "id": "12",
+            "name": "andijon",
+            "region": "andijon",
+            "population": "273 800",
+            "cetral":"kuyganyor",
+            "dencity":"740/",
+            "since":"1926 ",
+            "area": "370",
+            "img": "./images/region/andijon_andijon_tuman.png",
+            "info": "Tuman 19 ta shahar tipidagi posyolka va 9 ta qishloq fuqarolar yigʻinidan iborat. Shahar tipidagi aholi punktlari: Kuyganyor , Ayrilish, Butaqora, Guliston, Gumbaz, Zavroq, Qoraqalpoq, Kunji, Qoʻshariq, Namuna, Oʻgʻullik, Oq-yor, Rovvot, Xartum, Chilon, Chumbogʻich, Ekin tikin, Yangiobod, Gulobod"
+        },
+        {
+            "id": "13",
+            "name": "asaka",
+            "region": "andijon",
+            "population": "340 000",
+            "cetral":"asaka",
+            "dencity":"1 300/",
+            "since":"1926 ",
+            "area": "270",
+            "img": "./images/region/andijon_asaka.png",
+            "info": "Tuman 1 shahar (Asaka), 4 shahar tipidagi posyolka (Kujgon, Navkon, Oqboʻyra va T.Aliyev) va 8 qishloq fuqarolar yigʻinidan iborat.Asaka o'zining transport vositalari, o'tmishdagi otlari va bugungi kunda GM Uzbekistan (tuman markazida joylashgan avtomobil ishlab chiqarish zavodi) ishlab chiqarayotgan avtomobillari bilan doimo e'tiborda bo'lgan. Darhaqiqat, shahar xalq afsonasiga ko'ra, mahalliy mustangerga tegishli bo'lgan go'zal ot sharafiga nomlangan."
+        },
+        {
+            "id": "14",
+            "name": "baliqchi",
+            "region": "andijon",
+            "population": "207 100",
+            "cetral":"baliqchi",
+            "dencity":"610/",
+            "since":"1926 ",
+            "area": "340",
+            "img": "./images/region/andijon_baliqchi.png",
+            "info": "Tuman tarkibiga uchta shahar tipidagi aholi punkti ( Baliqchi , Xoʻjaobod va Chinobod ) va toʻqqizta qishloq fuqarolar yigʻini (60 ta qishloq) kiradi:"
+        },
+        {
+            "id": "15",
+            "name": "bo`z",
+            "region": "andijon",
+            "population": "74 800",
+            "cetral":"bo`z",
+            "dencity":"370/",
+            "since":"1950 ",
+            "area": "200",
+            "img": "./images/region/andijon_boz.png",
+            "info": "Tuman 3 ta shahar tipidagi posyolka ( Boʻz , Jalolov va Xoldevonbek) va 3 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "16",
+            "name": "buloqboshi",
+            "region": "andijon",
+            "population": "147 000",
+            "cetral":"buloqboshi",
+            "dencity":"820/",
+            "since":"1992 ",
+            "area": "180",
+            "img": "./images/region/andijon_buloqboshi.png",
+            "info": "Tuman 4 ta shahar tipidagi aholi punkti ( Buloqboshi , Andijon , Uchtepa va Shirmonbuloq) va 5 ta qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "17",
+            "name": "izboskan",
+            "region": "andijon",
+            "population": "245 600",
+            "cetral":"paytug",
+            "dencity":"880/",
+            "since":"1926 ",
+            "area": "280",
+            "img": "./images/region/andijon_izboskan.png",
+            "info": "Tuman 1 shahar (Paytugʻ), 4 shahar tipidagi posyolka (Gurkirov, Maygir, Toʻrtkoʻl va Uzun koʻcha) va 9 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "18",
+            "name": "jalaquduq",
+            "region": "andijon",
+            "population": "191 400",
+            "cetral":"jalaquduq",
+            "dencity":"520/",
+            "since":"1926 ",
+            "area": "370",
+            "img": "./images/region/andijon_jalaquduq.png",
+            "info": "Tuman 1 shahar (Jalaquduq), 7 shahar tipidagi aholi punkti ( Janubiy Olamushuk , Beshtol, Yorqishloq , Jalaquduq, Koʻkalam, Qoʻshtepa va Oyim ) va 8 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "19",
+            "name": "xo`jaobod",
+            "region": "andijon",
+            "population": "114,100",
+            "cetral":"xo`jaobod",
+            "dencity":"500/",
+            "since":"1926 ",
+            "area": "230",
+            "img": "./images/region/andijon_xojaobod.png",
+            "info": "Tuman 1 shahar (Xoʻjaobod), 5 shahar tipidagi aholi punkti (Guliston, Dilkushod, Koʻtarma, Manak va Xidirsha ) va 4 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "20",
+            "name": "qo`rgontepa",
+            "region": "andijon",
+            "population": "222 100",
+            "cetral":"qo`rgontepa",
+            "dencity":"460/",
+            "since":"1926 ",
+            "area": "480",
+            "img": "./images/region/andijon_qorgontepa.png",
+            "info": "Tuman ikki shahar ( Qoʻrgʻontepa va Qorasuv ), bitta shahar tipidagi posyolka ( Sultonobod ) va beshta qishloq kengashidan (Chimyon, Dardoq , Qoʻrgʻontepa, Savay va Sultonobod) iborat. "
+        },
+        {
+            "id": "21",
+            "name": "marhamat",
+            "region": "andijon",
+            "population": "178 700",
+            "cetral":"marhamat",
+            "dencity":"560/",
+            "since":"1926 ",
+            "area": "320",
+            "img": "./images/region/andijon_marhamat.png",
+            "info": "Tuman 1 shahar (Marhamat), 10 shahar tipidagi aholi punkti ( Polvontosh , Boboxuroson, Qorabogʻish, Qoraqoʻrgʻon, Koʻtarma, Marxamat, Rovot, Oʻqchi, Xakka va Xoʻjaariq) va 5 qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "22",
+            "name": "oltinko`l",
+            "region": "andijon",
+            "population": "184 700",
+            "cetral":"oltinko`l",
+            "dencity":"880/",
+            "since":"1939 ",
+            "area": "210",
+            "img": "./images/region/andijon_oltinkol.png",
+            "info": " Andijon viloyatining markaziy qismida joylashgan. Relyef pasttekislik va adirlar bilan ifodalangan. Iqlimi subtropik baland togʻli boʻlib, iyulning oʻrtacha harorati 25-28 ˚ C, fevralning oʻrtacha harorati -5 - -7 ˚ C. [5] Baʼzan yozda havo harorati 43 ˚ C ga etadi va qishda -18 ° C gacha. Vegetatsiya davri 160 - 180 kun, oʻrtacha yillik yogʻin miqdori 225 mm gacha. [5] Yovvoyi hayvonlar kam uchraydi, lekin kemiruvchilar, sudralib yuruvchilar va qushlar bor"
+        },
+        {
+            "id": "23",
+            "name": "paxtaobod",
+            "region": "andijon",
+            "population": "199 900",
+            "cetral":"paxtaobod",
+            "dencity":"770/",
+            "since":"1926 ",
+            "area": "260",
+            "img": "./images/region/andijon_paxtaobod.png",
+            "info": "Tuman 1 shahar (Paxtaobod), 3 shahar tipidagi posyolka (Doʻstlik, Izboskan va Pushmon) va 4 qishloq fuqarolar yigʻinidan iborat.Tuman Sovet davrida va Sovet davrida Qo'qonqishloq deb atalgan . Bu hududda yashovchi odamlar bir vaqtlar Qoʻqondan (Qoʻqon) kelib chiqqan, shuning uchun u Qoʻqonqishloq deb atalib, toʻgʻridan-toʻgʻri “Qoʻqonliklarning qishlogʻi” degan maʼnoni anglatadi."
+        },
+        {
+            "id": "24",
+            "name": "shahrixon",
+            "region": "andijon",
+            "population": "310 000",
+            "cetral":"shahrixon",
+            "dencity":"1 110/",
+            "since":"1926 ",
+            "area": "290",
+            "img": "./images/region/andijon_shahrihon.png",
+            "info": "Tuman 1 shahar (Shahrixon), 3 shahar tipidagi aholi punkti ( Voxim , Choʻja va Segazaqum ) va 12 qishloq fuqarolar yigʻinidan (jumladan Nazarmaxram ) iborat"
+        },
+        {
+            "id": "25",
+            "name": "ulug`nor",
+            "region": "andijon",
+            "population": "61 800",
+            "cetral":"oqoltin",
+            "dencity":"150/",
+            "since":"1973 ",
+            "area": "420",
+            "img": "./images/region/andijon_ulugnor.png",
+            "info": "Tuman 1 shahar tipidagi posyolka (Oqoltin) va 4 qishloq fuqarolar yigʻinidan iborat"
+        }
+    ]
+}
